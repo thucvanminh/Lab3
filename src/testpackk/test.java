@@ -9,6 +9,7 @@ public class test {
         Scanner sc = new Scanner (System.in);
         AccountManager acc1 = new AccountManager();
         acc1.doProgram(sc);
+        System.out.println("test thu");
         
     }
 }
