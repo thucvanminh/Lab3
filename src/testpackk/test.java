@@ -9,9 +9,6 @@ public class test {
         Scanner sc = new Scanner (System.in);
         AccountManager acc1 = new AccountManager();
         acc1.doProgram(sc);
-        System.out.println("Test Thanh Cong");
-        System.out.println("test lan nua");
-        System.out.println("test lan cuoi");
-        System.out.println("Day la thuc dep trai");
+        
     }
 }
